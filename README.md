@@ -12,7 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/usamarr/https://www.instagram.com/usamarr/https://www.linkedin.com/in/usama-rehman-⭐%EF%B8%8F-92a563246/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usama-rehman-⭐%EF%B8%8F-92a563246/) 
 <details>
   <summary>📃 Resume</summary>
- 
+
+
 ## Education
 
 - 📖 **Software Engineering**\
@@ -58,7 +59,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+----
 [![](https://visitcount.itsvg.in/api?id=Usamarr&icon=0&color=0)](https://visitcount.itsvg.in)
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
 
