@@ -5,7 +5,7 @@
 </h1>
 <img align='right' src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47uclnyvzabqo0eb9v3tju4takk6u0209riqphzglf&rid=giphy.gif&ct=g" width="280">
 #💫 About Me:
-🔭 I’m currently working as a QA Analayst at Inavista Solutions<br><br>🌱 I’m currently learning Automation Testing <br><br>🤔 I’m looking for help with Google<br><br>💬 Ask me about anything<br><br>📫 How to reach me: Linkedin<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: Graphic Designer, Digital Marketer
+🔭 I’m currently working as a QA Analayst at Inavista Solutions<br><br>🌱 I’m currently learning Automation Testing. 💬 Ask me about anything<br>📫 How to reach me: Linkedin<br><br>😄 Pronouns: he/him<br><br>⚡ Fun fact: I'm also a Content Writer.
 
 
 ## 🌐 Socials:
